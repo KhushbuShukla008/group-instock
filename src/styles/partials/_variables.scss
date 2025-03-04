@@ -1,13 +1,16 @@
 //variables
-$primary-black: #13182C;
-$primary-indigo: #2E66E5;
-$primary-white: #FFFFFF;
-$secondary-slate: #5C667E;
-$secondary-cloud: #BDC5D5;
-$background-graphite: #232940;
-$background-lightgrey: #F7F8F9;
-$supporting-green: #158463;
-$supporting-red: #C94515;
+$primary-colour-1: #13182C; //Instock-Black: Global text color
+$primary-colour-2: #2E66E5; //Instock-Indigo: Interactive elements
+$primary-colour-3: #FFFFFF; //White: Global white color
+
+$secondary-colour-1: #5C667E; //Slate:  Table column headers & placeholder text
+$secondary-colour-2: #BDC5D5; //Cloud:  Outlines, dividers, borders, table sorting icon
+
+$background-colour-1: #232940; //Graphite:  Top navigation header background,CTA button hover state background
+$background-colour-2: #F7F8F9; //Light-Grey:  Page background, table column header background, CTA background
+
+$supporting-colour-1: #158463; //Green:  “In stock” label
+$supporting-colour-2: #C94515; //Red:  “Out of stock” label, error states & delete icon
 
 //responsive design breakpoints
 $tablet-breakpoint: 48rem; //768px
